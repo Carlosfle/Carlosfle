@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Carlosfle/Carlosfle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me:
 
 -  I’m currently learning QA testing, diving into the IT world with a focus on software quality.
