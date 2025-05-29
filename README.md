@@ -9,6 +9,6 @@ I'm Carlos Flecha, a newcomer to the IT world, currently learning QA Testing.
 -  I am committed to continuous improvement and efficient problem-solving.
 -  I seek opportunities to apply my knowledge and grow professionally in the QA field.
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=postman,pycharm,andoirdstudio,py,windows&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,pycharm,androidstudio,py,windows&perline=3)](https://skillicons.dev)
 ## Where to find me:
 - [Linkedin}(https://www.linkedin.com/in/carlosflechal/)
